@@ -35,7 +35,7 @@ cout << "Erlingur " << endl;
 cout << "Erlingur " << endl;
 cout << "Gardar " << endl;
 cout << "Gardar " << endl;
-
+cout << "Ragnar MASTER" << endl;
 {
 	int val;
 	do
