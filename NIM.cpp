@@ -67,13 +67,13 @@ void spila( )
 	int hruga[ 10 ];
 	cout << "*-------------------------------------------------------*" << endl;
 	cout << "              Komdu ad spila NIM!!" << endl;
-	cout << "              ef thu thorir" << endl<
+	cout << "              NIM er adeins fyrir tha hugrokku" << endl<
 	cout << "*-------------------------------------------------------*" << endl;
 	cout << endl << endl;
 	cout << "Veljum med hve margar hrugur vid spilum. " << endl;
 	cout << "Yttu a einhvern lykil: " << endl;
 
-	srand( time( 0 ) );	
+		srand( time( 0 ) );	
 
 	hrugufjoldi = ( (rand( ) % 8 ) + 2 );
 	cout << "Vid spilum med " << hrugufjoldi << " hrugur. " << endl;
