@@ -33,6 +33,8 @@ int main( )
 
 cout << "Erlingur " << endl;
 cout << "Erlingur " << endl;
+cout << "Gardar " << endl;
+cout << "Gardar " << endl;
 
 {
 	int val;
