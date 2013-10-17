@@ -30,6 +30,10 @@ int hrugufjoldi;
 
 //H�r byrjar a�alforriti�:
 int main( )
+
+cout << "Erlingur " << endl;
+cout << "Erlingur " << endl;
+
 {
 	int val;
 	do
